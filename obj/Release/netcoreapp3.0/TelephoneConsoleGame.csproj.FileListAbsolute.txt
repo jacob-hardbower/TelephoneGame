@@ -1,0 +1,25 @@
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.exe
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.deps.json
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.runtimeconfig.json
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.runtimeconfig.dev.json
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.dll
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.pdb
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Release\netcoreapp3.0\NAudio.dll
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.AssemblyInfo.cs
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.csproj.CopyComplete
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.dll
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.pdb
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.exe
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.deps.json
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.runtimeconfig.json
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.runtimeconfig.dev.json
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.dll
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\bin\Release\netcoreapp3.0\TelephoneConsoleGame.pdb
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\bin\Release\netcoreapp3.0\NAudio.dll
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.csprojAssemblyReference.cache
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.AssemblyInfo.cs
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.csproj.CopyComplete
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.dll
+C:\Users\Heart\Downloads\GASP (1)\TelephoneConsoleGame\obj\Release\netcoreapp3.0\TelephoneConsoleGame.pdb

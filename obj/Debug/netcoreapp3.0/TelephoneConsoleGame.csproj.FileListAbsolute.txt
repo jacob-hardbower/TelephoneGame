@@ -1,0 +1,13 @@
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Debug\netcoreapp3.0\TelephoneConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Debug\netcoreapp3.0\TelephoneConsoleGame.AssemblyInfo.cs
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Debug\netcoreapp3.0\TelephoneConsoleGame.exe
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Debug\netcoreapp3.0\TelephoneConsoleGame.deps.json
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Debug\netcoreapp3.0\TelephoneConsoleGame.runtimeconfig.json
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Debug\netcoreapp3.0\TelephoneConsoleGame.runtimeconfig.dev.json
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Debug\netcoreapp3.0\TelephoneConsoleGame.dll
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Debug\netcoreapp3.0\TelephoneConsoleGame.pdb
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Debug\netcoreapp3.0\TelephoneConsoleGame.dll
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Debug\netcoreapp3.0\TelephoneConsoleGame.pdb
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\bin\Debug\netcoreapp3.0\NAudio.dll
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Debug\netcoreapp3.0\TelephoneConsoleGame.csprojAssemblyReference.cache
+C:\Users\Addison\Documents\Development\TelephoneConsoleGame\obj\Debug\netcoreapp3.0\TelephoneConsoleGame.csproj.CopyComplete
