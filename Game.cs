@@ -35,6 +35,7 @@ public class Game
     {
         // Kick off the update loop
         UpdateLoop();
+        ReadKeyInput();
     }
 
     private void UpdateLoop()
@@ -50,6 +51,12 @@ public class Game
 
         // Restart the update loop
         UpdateLoop();
+    }
+
+    private void ReadKeyInput()
+    {
+        ConsoleKeyInfo keyInfo = Console.ReadKey(true);
+        if (keyInfo.Key == ConsoleKey.A) Console.WriteLine("HEY YOU PRESSED A");
     }
 
     private void Update()
