@@ -40,6 +40,9 @@ public class Game
 
     private void UpdateLoop()
     {
+        // Read the key inputs
+        ReadKeyInput();
+
         // Get a random time bewtween the min and max update intervals
         int updateTime = _randomUpdateTime.Next(_MIN_UPDATE_INTERVAL_MILLISECONDS, _MAX_UPDATE_INTERVAL_MILLISECONDS);
 
